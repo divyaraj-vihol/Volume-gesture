@@ -17,10 +17,6 @@
 pip install -r requirements.txt
 ```
 ***
-### MEDIAPIPE
-<div align="center">
-  <img alt="mediapipeLogo" src="images/mediapipe.png" />
-</div>
 
 > MediaPipe offers open source cross-platform, customizable ML solutions for live and streaming media.
 
@@ -52,11 +48,7 @@ Minimum confidence value ([0.0, 1.0]) from the landmark-tracking model for the h
 
 Source: [MediaPipe Hands Solutions](https://google.github.io/mediapipe/solutions/hands#python-solution-api)
 
-<div align="center">
-    <img alt="mediapipeLogo" src="images/hand_landmarks_docs.png" height="200 x    " />
-    <img alt="mediapipeLogo" src="images/htm.jpg" height="360 x" weight ="640 x" />
-    
-</div>
+
 
 
 ## 📝 CODE EXPLANATION
